@@ -24,3 +24,5 @@ Once Python is installed:
 ### How to run the file:
 1. Locate the file and select open with python [EXAMPLE](openwithss.png)
 2. Follow the instructions which will be shown in the opened tab [EXAMPLE](financecalcinstr.png)
+
+Finally here is the code which was written [CLICK HERE](finance_calculators.py)
