@@ -11,6 +11,8 @@ I have also made sure that the code is not case sensitive to ensure that there a
 
 ### Installation and setup:
 To run this program you need to have Python installed on your operating system.
+
 To install python visit: https://www.python.org/downloads/
+
 Once Python is installed:
 1. Go 
