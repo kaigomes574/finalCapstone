@@ -8,3 +8,7 @@ I have also made sure that the code is not case sensitive to ensure that there a
 
 ### An example of the output:
 [CLICK HERE TO VIEW EXAMPLE OUTPUT](financial_calculatorscreenshot.png)
+
+### Installation and setup:
+To run this program you need to have Python installed on your operating system.
+To install python https://www.python.org/downloads/
