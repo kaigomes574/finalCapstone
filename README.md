@@ -22,4 +22,4 @@ Once Python is installed:
 3. Locate the file and open with Python
 
 ### How to run the file:
-1. Locate the file and select open with python[EXAMPLE](.png)
+1. Locate the file and select open with python [EXAMPLE](openwithss.png)
