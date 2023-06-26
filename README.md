@@ -16,4 +16,5 @@ To install python visit: https://www.python.org/downloads/
 
 Once Python is installed:
 1. Go over to finance_calculators.py
-2. Select the 
+2. Select the Download raw file option
+3. Locate the file and open with Python
