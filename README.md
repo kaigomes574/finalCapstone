@@ -23,4 +23,4 @@ Once Python is installed:
 
 ### How to run the file:
 1. Locate the file and select open with python [EXAMPLE](openwithss.png)
-2. Follow the instruction which will pop up  [EXAMPLE](openwithss.png)
+2. Follow the instruction which will pop up  [EXAMPLE](financecalcinstr.png)
