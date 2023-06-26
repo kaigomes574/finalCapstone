@@ -7,4 +7,4 @@ The code works very well and takes multiple user inputs and can have endless out
 I have also made sure that the code is not case sensitive to ensure that there are no mistakes whilst running the code.
 
 ### An example of the output:
-[Some title here](financial_calculatorscreenshot.png)
+[CLICK HERE TO VIEW EXAMPLE OUTPUT](financial_calculatorscreenshot.png)
