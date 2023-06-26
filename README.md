@@ -22,7 +22,9 @@ Once Python is installed:
 3. Locate the file and open with Python
 
 ### How to run the file:
-1. Locate the file and select open with python [EXAMPLE](openwithss.png)
-2. Follow the instructions which will be shown in the opened tab [EXAMPLE](financecalcinstr.png)
+1. Locate the file and select open with python [OPEN IMAGE](openwithss.png)
+2. Follow the instructions which will be shown in the opened tab [OPEN IMAGE](financecalcinstr.png)
 
 Finally here is the code which was written [CLICK HERE](finance_calculators.py)
+
+### All of the code was written by Kai Gomes
